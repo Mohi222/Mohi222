@@ -2,7 +2,8 @@
 
 I'm Mohi (he/they) - I'm a Javascript developer, I work on frontend mostly.
 - 🔭 I’m currently working on my portfolio
-- 🌱 I’m currently learning tailwindcss
+- 🌱 I’m currently learning Rust
+- 🌱 I’m currently experimenting with Redwoodjs
 
 <p align="center">
   <a href="https://skillicons.dev">
